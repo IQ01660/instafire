@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InstaFire</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="log_in">Log In</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Log Out</string>
+    <string name="post_content_desc">User Post Image</string>
+</resources>
